@@ -14,4 +14,4 @@ You can find the rest of the course material in these repositories:
 
 Check out the [course website](https://sites.google.com/view/numeconcph-introprog/home) for installation guides, deadlines, and other relevant information.
 
-Please feel free to email me at *jdc334@alumni.ku.dk* with any questions or uncertainties you might have in relation to the content of the course. I won't always be able to provide a quick response, but I'll do my best to answer as fast as possible!
+Please feel free to email me at jdc334@alumni.ku.dk with any questions or uncertainties you might have in relation to the content of the course. I won't always be able to provide a quick response, but I'll do my best to answer as fast as possible!
